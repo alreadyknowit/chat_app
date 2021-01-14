@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/demir/OneDrive/Documents/FlutterProjects/chat_app/lib/pages/authentication/login.page.dart';
-
+import 'package:chat_app/pages/authentication/login.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
